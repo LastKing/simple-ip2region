@@ -1,6 +1,6 @@
 {
   "name": "simple-ip2region",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ip2region node ",
   "git repository": "https://github.com/LastKing/simple-ip2region.git",
   "main": "index.js",
