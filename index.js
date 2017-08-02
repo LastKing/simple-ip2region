@@ -14,5 +14,3 @@ module.exports = {
   mapRegion,
   ipAreaUtil
 };
-
-console.log(ip2regionDBPath);
